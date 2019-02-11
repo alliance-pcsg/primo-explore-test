@@ -9,5 +9,5 @@ angular
         };
 
     },
-  template: '<div>My test</div>'
+  template: '<div>My test - updated for patch!</div>'
 });
